@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😎 I am a junior front-end engineer with big dreams 
+
 - 🌱 I’m currently learning React Family
 
 
