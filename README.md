@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Family
 
 
-[![AfireHong's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfireHong&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfireHong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![AfireHong's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfireHong&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfireHong&cache_seconds=1800&layout=compact&hide_border=true&bg_color=FFFFFF&icon_color=87b2fd&text_color=000000)](https://github.com/anuraghazra/github-readme-stats)
