@@ -1,20 +1,19 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
-<!--
-**AfireHong/AfireHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ 😎 I'm a junior front-end engineer;
+</p>
 
-Here are some ideas to get you started:
+<div style="margin: 0 auto;">
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![AfireHong status](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfireHong&theme=radical)
 
-- 😎 I'm a junior front-end engineer with big dreams 
+<div>
 
+<div style="display: flex">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfireHong&cache_seconds=1800&layout=compact&hide_border=true&bg_color=FFFFFF&icon_color=87b2fd&text_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AfireHong&theme=radical)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AfireHong&theme=radical)
+
+</div>
