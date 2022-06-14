@@ -1,7 +1,7 @@
 <h3 >Hi there 👋</h3>
 
 <p >
- 😎 I'm a junior front-end engineer;
+ 😎 
 </p>
 
 <div>
